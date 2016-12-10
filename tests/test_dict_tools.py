@@ -1,5 +1,5 @@
-from dict_tools import example_nested_dict, example_flat_dict
-from dict_tools import flatten, nest
+from flat_nest_pydict import example_nested_dict, example_flat_dict
+from flat_nest_pydict import flatten, nest
 
 
 def test_should_flatten_nested_dict():

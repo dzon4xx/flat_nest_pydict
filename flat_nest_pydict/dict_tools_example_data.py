@@ -1,5 +1,6 @@
 from .dict_tools import flatten
 
+
 def example_nested_dict():
     return {'0-0':
                 {'1-0':
